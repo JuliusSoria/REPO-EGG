@@ -33,7 +33,7 @@ public class Condicional {
                     System.out.println("Has calificado la peli como muy buena");
                     break;
                 case 5:
-                    System.out.println("Fábtastico que haya disfrutado un excelente entretenimiento!!");
+                    System.out.println("Fántastico que haya disfrutado un excelente entretenimiento!!");
                     
             }      
         } else if (opinion < 0) {
